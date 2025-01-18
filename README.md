@@ -50,4 +50,32 @@ A **full-stack e-commerce website** built using **HTML**, **CSS**, **JavaScript*
 - **MySQL**: Relational database for storing user and product information.
 
 
+3.# Food Delivery
+
+A **full-stack food delivery application** built using the **MERN stack**: **MongoDB**, **Express**, **React**, and **Node.js**. This project includes features for ordering food, managing users, restaurants, and menu items, all wrapped in a modern, responsive design.
+
+## Features
+
+- **User Authentication**: Secure login and registration system.
+- **Browse Restaurants**: Explore available restaurants and their menus.
+- **Order Management**: Add items to the cart, place orders, and track order status.
+- **Admin Dashboard**: Manage restaurants, menu items, and orders.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Tech Stack
+
+### Frontend:
+- **React**: For building dynamic user interfaces.
+- **Redux**: For state management.
+- **Material-UI**: For a modern and consistent design.
+
+### Backend:
+- **Node.js**: JavaScript runtime for the server.
+- **Express**: Framework for creating the RESTful API.
+
+### Database:
+- **MongoDB**: NoSQL database for storing user, restaurant, and order data.
+
+
+
 
